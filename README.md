@@ -1,0 +1,1 @@
+# javascript-variable-day-1
